@@ -1,2 +1,3 @@
-# emergency_repository
-「フーリエ解析入門」（エリアス）を読んで学んだことをまとめました
+# emergency repository
+
+パソコンが死んだ際の、緊急用のリポジトリ
